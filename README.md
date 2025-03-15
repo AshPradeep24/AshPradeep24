@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshPradeep24
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Excel, SQL and Tableau
+- 🌱 I’m currently learning Excel, SQL, R and Tableau
 - 📫 How to reach me: ashpradeep01@gmail.com
 - 😄 Pronouns: she/ her
 
